@@ -1,4 +1,6 @@
-## Hi there 👋
+## Alumnus of Purdue University Northwest with a B.S. in Computer Science and a Minor in Mathematics.
+
+I'm currently focused on learning more about cybersecurity and embedded systems.  
 
 <!--
 **austru/austru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
